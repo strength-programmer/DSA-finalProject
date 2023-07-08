@@ -1,0 +1,55 @@
+1
+Milo
+10
+20
+
+2
+Nestle Bearbrand Fortified
+150
+122
+
+3
+Chips Ahoy 
+100
+100
+
+4
+Gardenia White Bread 
+85
+30
+
+5
+Downy Fabric Conditioner
+12
+300
+
+6
+Ariel
+120
+30
+
+7
+Tide Bar Soap
+125
+30
+
+8
+Joy Dishwashing Liquid 
+30
+50
+
+9
+Safeguard Bar Soap 
+35
+50
+
+10
+Clear Shampoo
+15
+50
+
+11
+Mentos
+2
+1000
+
